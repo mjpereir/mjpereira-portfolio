@@ -15,9 +15,9 @@ Hi! I am a first-year MSPPM-DC student at CMU with a background in Political Sci
 
 # Portfolio
 
-## Data Vizualization Examples [Data Vizualization Examples](visualizing-government-debt)
+## [Data Vizualization Examples](visualizing-government-debt)
 
-## Critique by Design [Critique by Design](critique)
+## [Critique by Design](critique)
 
 ## Final Project
 
