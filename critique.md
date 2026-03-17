@@ -1,3 +1,3 @@
-# Assignment 3 & 4
+# Critique by Design
 
-I think this is the 'critique by design' assignment. 
+Critique assignments here.
