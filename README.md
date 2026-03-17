@@ -1,35 +1,32 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU.  
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I am a first-year MSPPM-DC student at CMU with a background in Political Science and Communication & Journalism. Before graduate school, I spent two years at a Public Relations agency, where I learned to transform complex ideas into clear, compelling messages, usually through writing. In this course, I'm excited to learn how to do the same thing with data. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. The basic rules for designing effective data visualizations.
+2. How to improve existing visualizations through useful feedback. 
+3. Explore the many ways data can be represented to communicate ideas.
+4. Create an interactive data visualization by the end of the course (if possible).
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+
+## Assignment 2: [Critique by Design](critique-by-design)
+
+## Final Project
+
+A high-level description of my final project will be added here. 
+
+* [Part I](final-project-part-one)
+* [Part II](final-project-part-two)
+* [Part III](final-project-part-three)
+
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
