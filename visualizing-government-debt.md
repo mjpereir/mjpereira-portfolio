@@ -1,3 +1,3 @@
-# Visualizing Government Debt
+# Data Vizualization Examples
 
-I will post my assignment from week two here (?). 
+All my (pretty) Data Viz assignments will go here! 
