@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page]([https://cmustudent.github.io/tswd-portfolio-templates/](https://mjpereir.github.io/mjpereira-portfolio/)) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU.  
@@ -25,20 +25,7 @@ A high-level description of my final project will be added here.
 
 * [Part I](final-project-part-one)
 * [Part II](final-project-part-two)
-* [Part III](final-project-part-three)
-
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+* [Part III](final-project-part-thre.  
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
