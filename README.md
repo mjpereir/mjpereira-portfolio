@@ -1,4 +1,4 @@
-| [home page](https://mjpereir.github.io/mjpereira-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique](critique) | [Final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mjpereir.github.io/mjpereira-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique](critique) | [Final project I](final-project-part-uno) | [final project II](final-project-part-dos) | [final project III](final-project-part-tres) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU.  
@@ -23,9 +23,9 @@ Hi! I am a first-year MSPPM-DC student at CMU with a background in Political Sci
 
 A high-level description of my final project will be added here. 
 
-* [Part I](final-project-part-one)
-* [Part II](final-project-part-two)
-* [Part III](final-project-part-three).  
+* [Part I](final-project-part-uno)
+* [Part II](final-project-part-dos)
+* [Part III](final-project-part-tres).  
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.) 
