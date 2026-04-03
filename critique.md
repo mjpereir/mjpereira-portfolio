@@ -9,7 +9,7 @@ For my data visualization critique, I chose to analyze the data from Gallup's 20
 
 Source: https://news.gallup.com/poll/470708/lgbt-identification-steady.aspx
 
-I selected this graph because I found the findings to be intriguing but I thought that the message was getting lost as the original designer was sharing too much data. The more I looked into it, the more patterns and stories I saw. I thought it could be better if it was just focused in one single narrative. 
+I chose this graph because I found the findings intriguing, but I felt the message was getting lost as the original designer was sharing too much data. The more I examined it, the more patterns and stories I saw. I believed it could be improved by focusing on a single narrative. 
 
 ## Step 2: The Critique 
 
@@ -45,8 +45,25 @@ My redesign will focus on narrative clarity. Rather than attempting to convey ev
 
 ## Step 3: Sketch a Solution 
 
-![image alt] (https://github.com/mjpereir/mjpereira-portfolio/blob/d90a5075e379602fd16a5db15fe0b52b40023f52/WhatsApp%20Image%202026-04-02%20at%204.07.42%20PM%20(1).jpeg)
+![Image](https://github.com/mjpereir/mjpereira-portfolio/blob/main/WhatsApp%20Image%202026-04-02%20at%204.07.42%20PM%20(1).jpeg?raw=true)
+
+For my sketch, I focused on creating a simple, horizontal bar chart with a single narrative. While creating thinking about this graph, I kept the principle of less is more in mind. I wanted to ensure that the chart was accesible and didn’t overwhelm the audience as the original one did. My classmates feedback was helpful in pointing out small details, but I was happy to notice that all of them understood my main idea. 
 
 ## Step 4: Test the Solution 
 
-![Image alt] (https://github.com/mjpereir/mjpereira-portfolio/blob/main/WhatsApp%20Image%202026-04-02%20at%204.07.42%20PM%20(1).jpeg?raw=true)
+|Question | Response | 
+| :--- | :---: |
+|Can you tell me what you think this is? |This is a horizontal bar chart.| 
+|Can you describe to me what this is telling you? |The graph represents the percentage of bisexual people within the LGBT community, divided by generations. |
+| Is there anything you find surprising or confusing? | A student expressed confusion about what my x-axis represented. Another student said that my arrows didn’t make sense. | 
+|Who do you think is the intended audience for this? | The general US public. | 
+|Is there anything you would change or do differently? | A third student suggested moving the percentage numbers from outside the graph to within it, to avoid confusion about what the numbers represented. There was also some discussion about the order of the generations in my sketch, but the consensus was to keep it as it was.| 
+
+## Step 5: Build Your Solution 
+
+<div class='tableauPlaceholder' id='viz1775185983228' style='position: relative'><noscript><a href='#'><img alt='Bisexual Identification Makes Up The Largest Share of LGBT AdultsShare of LGBT adults by generation, 2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17751802551010&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34_17751802551010&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17751802551010&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes'/><param name='language' value='en-US'/><param name='filter' value='publish=yes'/></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1775185983228'); var vizElement divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+I wanted my final graph to closely resemble my sketch because I believed people understood what I was trying to communicate. To create this simple horizontal graph, I cleaned up the data from Gallup's article and pivoted the columns. When creating it, I considered my classmates' feedback: I removed the arrows, eliminated the x-axis to avoid confusion, and moved the percentage numbers inside the bars.
+
+After creating this graph in Tableau, I shared it again with my classmates. Overall, they understood my message, but one of them was confused about the length of the bars. Unlike my sketch, the bars in my final graph exceeded 100%. I explained the reason and added a caption to clarify why in my graph. 
+
