@@ -47,7 +47,7 @@ My redesign will focus on narrative clarity. Rather than attempting to convey ev
 
 ![Image](https://github.com/mjpereir/mjpereira-portfolio/blob/main/WhatsApp%20Image%202026-04-02%20at%204.07.42%20PM%20(1).jpeg?raw=true)
 
-For my sketch, I focused on creating a simple, horizontal bar chart with a single narrative. While creating thinking about this graph, I kept the principle of less is more in mind. I wanted to ensure that the chart was accesible and didn’t overwhelm the audience as the original one did. My classmates feedback was helpful in pointing out small details, but I was happy to notice that all of them understood my main idea. 
+For my sketch, I focused on creating a simple, horizontal bar chart with a single narrative. While creating this graph, I kept the principle of less is more in mind. I wanted to ensure that the chart was accesible and didn’t overwhelm the audience as the original one did. My classmates feedback was helpful in pointing out small details, but I was happy to notice that all of them understood my main idea. 
 
 ## Step 4: Test the Solution 
 
