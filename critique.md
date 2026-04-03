@@ -49,4 +49,4 @@ My redesign will focus on narrative clarity. Rather than attempting to convey ev
 
 ## Step 4: Test the Solution 
 
-
+![Image alt] (https://github.com/mjpereir/mjpereira-portfolio/blob/main/WhatsApp%20Image%202026-04-02%20at%204.07.42%20PM%20(1).jpeg?raw=true)
