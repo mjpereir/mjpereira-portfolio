@@ -15,7 +15,7 @@ I selected this graph because I found the findings to be intriguing but I though
 
 The critique of this visualization was completed following Stephen Few's Data Visualization Effectiveness Profile. It is being judged based on seven categories: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. 
 
-### Ranking:
+#### Ranking:
 - Usefulness: 7/10. The visualization successfully conveys valuable demographic data and patterns. However, it requires some effort from the viewer to extract specific insights.
 - Completeness: 7/10. While all necessary data points are present, the lack of visual hierarchy leads to a cluttered and disorganized presentation.
 - Perceptibility: 6/10. The choice of a bar chart is appropriate for a general audience, but there is too much data, making it difficult to decode patterns quickly or grasp at the main ideas of the graph. 
@@ -26,11 +26,11 @@ The critique of this visualization was completed following Stephen Few's Data Vi
 
 The first thing that stood out to me about this graph was the use of color. It seemed that the designer was trying to make a colorful graph to represent the LGBT community. However, the graph had too much color, which was distracting. From the graph, I liked that it was easy to understand and that, as an audience, I had enough information to see the patterns (how it increased over the years and how each generation behaved differently).
 
-### Initial Thoughts
+#### Initial Thoughts
 
 What immediately stood out to me about this visualization is the aggressive use of color. It appears the designer attempted to utilize a "rainbow" palette as way to represent the LGBT community. However, this choice prioritized aesthetics over functionality. On a positive note, I think the chart succeeds in making the general ideas easy to understand, specifically the visible growth of the LGBT population over time and the distinct behavioral variances between generations.
 
-### Opportunities for Improvement 
+#### Opportunities for Improvement 
 
 There is room for improvement in both the narrative and the technical execution of the graph. For instance, the “7.2%” figure was repeated twice, which felt unnecessary. The title didn’t do a good job of explaining what the main takeaway of the data seemed to be (that the LGBT population was growing, and that it was mostly growing among the youth). If the objective was to emphasize growth and the generational gap, a slopegraph would have been a better choice.
 
@@ -39,7 +39,7 @@ Other small issues were:
 - Granularity Issues: Specific generational percentages are only provided for 2022.
 - Visual Clutter: An unnecessary American map icon in the top-right corner that adds no informational value, and the oversized color key at the top takes up valuable real estate that could have been used for the data itself.
 
-### Redesign Idea
+#### Redesign Idea
 
 My redesign will focus on narrative clarity. Rather than attempting to convey every available data point, I will aim to identify a single, compelling story and build the visualization around that. I will also move away from the multi-colored palette in favor of a strategic, limited color scheme. This will transform the graphic from a "data dump" into a clear, persuasive narrative that highlights specific trends without overwhelming the viewer.
 
