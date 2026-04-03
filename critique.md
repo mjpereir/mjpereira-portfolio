@@ -45,6 +45,6 @@ My redesign will focus on narrative clarity. Rather than attempting to convey ev
 
 ## Steph 3: Sketch a Solution 
 
-
+![image alt] (https://github.com/mjpereir/mjpereira-portfolio/blob/d90a5075e379602fd16a5db15fe0b52b40023f52/WhatsApp%20Image%202026-04-02%20at%204.07.42%20PM%20(1).jpeg)
 
 
