@@ -65,3 +65,7 @@ I wanted my final graph to closely resemble my sketch because I believed people 
 
 After creating this graph in Tableau, I shared it again with my classmates. Overall, they understood my message, but one of them was confused about the length of the bars. Unlike my sketch, the bars in my final graph exceeded 100%. I explained the reason and added a caption to clarify why in my graph. 
 
+## AI Acknowledgements
+
+I used AI to troubleshoot how to embed images and how to create tables in Github. 
+
