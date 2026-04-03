@@ -16,19 +16,17 @@ I chose this graph because I found the findings intriguing, but I felt the messa
 The critique of this visualization was completed following Stephen Few's Data Visualization Effectiveness Profile. It is being judged based on seven categories: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. 
 
 #### Ranking:
-- Usefulness: 7/10. The visualization successfully conveys valuable demographic data and patterns. However, it requires some effort from the viewer to extract specific insights.
-- Completeness: 7/10. While all necessary data points are present, the lack of visual hierarchy leads to a cluttered and disorganized presentation.
-- Perceptibility: 6/10. The choice of a bar chart is appropriate for a general audience, but there is too much data, making it difficult to decode patterns quickly or grasp at the main ideas of the graph. 
-- Truthfulness: 5/10. The data is technically accurate, but the execution lacks the precision and clean delivery.  
+- Usefulness: 7/10. The visualization successfully conveys valuable demographic data and patterns. However, it requires some effort from the viewer to understand specific insights.
+- Completeness: 7/10. While all necessary data points are present, the lack of visual hierarchy creates a cluttered and disorganized graph. 
+- Perceptibility: 6/10. The choice of a bar chart is appropriate for a general audience, but there is too much data, making it difficult to identify patterns quickly or grasp at the main ideas of the graph. 
+- Truthfulness: 5/10. The data is technically accurate, but the execution is lacking. 
 - Intuitiveness: 6/10. The subject matter is immediately clear, but the layout makes it difficult to track specific trends across the timeline.
 - Aesthetics: 4/10. It's not the most enjoyable to look at. The competing colors and crowded elements are distracting. 
 - Engagement: 6/10. Despite its flaws, I do think it might inspire people to look more into the data. 
 
-The first thing that stood out to me about this graph was the use of color. It seemed that the designer was trying to make a colorful graph to represent the LGBT community. However, the graph had too much color, which was distracting. From the graph, I liked that it was easy to understand and that, as an audience, I had enough information to see the patterns (how it increased over the years and how each generation behaved differently).
-
 #### Initial Thoughts
 
-What immediately stood out to me about this visualization is the aggressive use of color. It appears the designer attempted to utilize a "rainbow" palette as way to represent the LGBT community. However, this choice prioritized aesthetics over functionality. On a positive note, I think the chart succeeds in making the general ideas easy to understand, specifically the visible growth of the LGBT population over time and the distinct behavioral variances between generations.
+What immediately stood out to me about this visualization is the aggressive use of color. It appears the designer attempted to utilize a "rainbow" palette as way to represent the LGBT community. However, this choice prioritized aesthetics over functionality. On a positive note, I think the chart succeeds in making the general ideas easy to understand, specifically the visible growth of the LGBT population over time and the distinct differences between generations.
 
 #### Opportunities for Improvement 
 
