@@ -43,8 +43,10 @@ Other small issues were:
 
 My redesign will focus on narrative clarity. Rather than attempting to convey every available data point, I will aim to identify a single, compelling story and build the visualization around that. I will also move away from the multi-colored palette in favor of a strategic, limited color scheme. This will transform the graphic from a "data dump" into a clear, persuasive narrative that highlights specific trends without overwhelming the viewer.
 
-## Steph 3: Sketch a Solution 
+## Step 3: Sketch a Solution 
 
 ![image alt] (https://github.com/mjpereir/mjpereira-portfolio/blob/d90a5075e379602fd16a5db15fe0b52b40023f52/WhatsApp%20Image%202026-04-02%20at%204.07.42%20PM%20(1).jpeg)
+
+## Step 4: Test the Solution 
 
 
