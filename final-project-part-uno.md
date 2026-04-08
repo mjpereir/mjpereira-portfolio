@@ -45,10 +45,9 @@ For all my graphs, I will use either Tableau or Datawrapper.
 
 # References 
 
-Our World in Data. (n.d.). Colombia Country Profile: Population and Demography.  https://ourworldindata.org/profile/population-demography/colombia 
+Our World in Data. (n.d.). *Colombia Country Profile: Population and Demography.*  https://ourworldindata.org/profile/population-demography/colombia 
 
-Presidencia de Colombia (2025, March 26). En 2024 nacieron 445 mil bebés en Colombia, una reducción de 13,7 % en la última década, informó el Dane [Press release] 
-https://www.presidencia.gov.co/prensa/Paginas/En-2024-nacieron-445-mil-bebes-en-Colombia-una-reduccion-de-13-7-en-la-ulti-250326.aspx
+Presidencia de Colombia (2025, March 26). *En 2024 nacieron 445 mil bebés en Colombia, una reducción de 13,7 % en la última década, informó el Dane* [Press release] https://www.presidencia.gov.co/prensa/Paginas/En-2024-nacieron-445-mil-bebes-en-Colombia-una-reduccion-de-13-7-en-la-ulti-250326.aspx
 
 # AI Acknowledgements 
 
