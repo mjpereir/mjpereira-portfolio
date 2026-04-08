@@ -30,7 +30,7 @@ Show whether the birth rate is declining or not, based on where they live in Col
 
 # Initial sketches
 
-
+https://github.com/mjpereir/mjpereira-portfolio/blob/main/WhatsApp%20Image%202026-04-07%20at%209.29.36%20PM.jpeg?raw=true
 
 # The Data
 
