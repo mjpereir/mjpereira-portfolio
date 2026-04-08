@@ -4,11 +4,9 @@
 
 For my final project, I analyze the decline in fertility rates in my home country, Colombia, which has experienced one of the fastest drops globally from 2.6 births per woman in 2000 to 1.6 in 2023. 
 
-I was familiar with the coverage surrounding this issue: that we were below the replacement rate, which would be an issue for our pension and healthcare system in the future. However, looking at the data, it’s hard to argue that a lot of the decrease in the fertility rate comes from a reduction in teenage pregnancy (15-19), which is a clear policy success. The decrease in teenage pregnancy doesn’t fully explain the overall decline; there have also been declines in all the other age groups, except for the 35+ age group, which has recently increased. 
+I was familiar with the coverage surrounding this issue: that our population is below the replacement rate, which could pose problems for our pension and healthcare systems in the future. However, looking at the data, it’s immediately obvious that a lot of the decrease in the fertility rate comes from a reduction in teenage pregnancy (15-19), which is a clear policy success. The decrease in teenage pregnancy doesn’t fully explain the overall decline; there have also been declines in all the other age groups, except for the 35+ age group, which has recently increased. 
 
 This project argues that Colombia’s declining fertility rate is driven by both reductions in teenage pregnancy and delayed childbearing. However, this trend is not uniform. High rates of teenage pregnancy persist in rural and lower-income populations. Particularly concerning are pregnancies among girls aged 10–14, which are often linked to abuse.
-
-Overall, while the national decline in teenage pregnancy is a positive development, significant disparities remain, highlighting the need for targeted policy responses in vulnerable communities.
 
 ### Project structure 
 
