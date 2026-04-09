@@ -40,7 +40,7 @@ Show whether the birth rate is declining or not, based on where they live in Col
 
 #### Act 3
 
-![Image]
+![Image](https://github.com/mjpereir/mjpereira-portfolio/blob/main/Colombia%20Map.jpeg?raw=true)
 
 # The Data
 
