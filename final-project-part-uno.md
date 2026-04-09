@@ -30,6 +30,10 @@ Show whether the birth rate is declining or not, based on where they live in Col
 
 ![Image](https://github.com/mjpereir/mjpereira-portfolio/blob/main/WhatsApp%20Image%202026-04-07%20at%209.29.36%20PM.jpeg?raw=true)
 
+#### Act 1
+
+![Image]
+
 # The Data
 
 For my data, I will use the publicly available data from the DANE (Departamento Administrativo Nacional de Estadística - National Administrative Department of Statistics) in Colombia. This institution collects regarding Colombia’s population, economy, and social conditions.
