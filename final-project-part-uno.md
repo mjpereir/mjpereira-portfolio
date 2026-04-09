@@ -36,6 +36,10 @@ Show whether the birth rate is declining or not, based on where they live in Col
 
 #### Act 2
 
+![Image](https://github.com/mjpereir/mjpereira-portfolio/blob/main/Ages.jpeg?raw=true)
+
+#### Act 3
+
 ![Image]
 
 # The Data
