@@ -4,6 +4,8 @@
 
 To access my storyboard draft click here: https://preview.shorthand.com/Nqb3oTdgDUj4o0mb/responsive/desktop
 
+My storyboard follows a classic 'assumption vs. reality' structure. Act 1 establishes the common narrative: Colombia's fertility rate is falling, and the media and society as a whole are panicking. Act 2 complicates this narrative by showing that a big part of the decline is due to a reduction in teenage pregnancy (a success), and women across all age groups except 35+ are delaying childbearing for valid reasons like education and economic instability. Act 3 reveals the real problem: the national average hides deep inequality. Teen pregnancy remains high in rural and low-income areas. The story ends with a call to action: to invest in rural sex education, and protect vulnerable girls first.
+
 # User Research 
 
 ## Target Audience
@@ -15,7 +17,7 @@ My target audience is Colombians, especially young adults, journalists, and poli
 |Question | Response | 
 | :--- | :---: |
 |What Worked? |The response will be here.| 
-|What didn't work? | The response will be here. |
+|What didn't work? | Student A: You need to include and make explicit the replacement rate so that people understand the urgency of what's happening.|
 | What questions came up? | The response will be here. | 
 | What new inspiration arose? | The response will be here. | 
 
