@@ -2,7 +2,7 @@
 
 # Wireframes / Storyboards
 
-To access my storyboard draft click here: 
+To access my storyboard draft click here: https://preview.shorthand.com/Nqb3oTdgDUj4o0mb/responsive/desktop
 
 # User Research 
 
