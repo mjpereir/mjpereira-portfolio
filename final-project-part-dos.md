@@ -14,12 +14,26 @@ My target audience is Colombians, especially young adults, journalists, and poli
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? |Student A:JSDSD Student B: KDKSD Student C: JSDJ| 
-|What didn't work? | Student A: You need to include and make explicit the replacement rate so that people understand the urgency of what's happening. Student B: JSDJ Student C: KKSD|
-| What questions came up? | Student A: dsd Student B: FJD Student C: DKS| 
-| What new inspiration arose? | Student A: kdjs Student B: KDS Student C: FKDJ | 
+|What Worked? |PlaceholderJ| 
+|What didn't work? | Placeholder |
+| What questions came up? | Placeholder| 
+| What new inspiration arose? | Placeholder | 
 
-This table summarizes the responses my three classmates gave me when I presented them with my sketch during Monday's in-class critique. 
+|Question | Response | 
+| :--- | :---: |
+|What Worked? |Placeholder| 
+|What didn't work? | Placeholder|
+| What questions came up? | Placeholder| 
+| What new inspiration arose? | Placeholder | 
+
+|Question | Response | 
+| :--- | :---: |
+|What Worked? |Placeholder| 
+|What didn't work? | Placeholder|
+| What questions came up? | Placeholder| 
+| What new inspiration arose? | Placeholder | 
+
+These tables summarize the responses my three classmates gave me when I presented them with my sketch during Monday's in-class critique. 
 
 ## Changes for Part III
 
