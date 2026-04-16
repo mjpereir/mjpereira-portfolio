@@ -8,7 +8,7 @@ To access my storyboard draft click here:
 
 ## Target Audience
 
-AJksdks
+My target audience is Colombians, especially young adults, journalists, and policymakers who are following the fertility debate and need data to move beyond panic headlines towards a broader understanding of the issue. It could also be of interest to a global audience seeking to understand Colombia's rapid fertility decline or drawn to demographic topics. 
 
 ## User Feedback 
 
