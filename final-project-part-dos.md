@@ -21,10 +21,10 @@ My target audience is Colombians, especially young adults, journalists, and poli
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? | Student B | 
-|What didn't work? | Placeholder|
-| What questions came up? | Placeholder| 
-| What new inspiration arose? | Placeholder | 
+|What Worked? | Student B liked that the narrative contradicts the media. They also liked the idea of using a map to visualize the rural and urban differences. | 
+|What didn't work? | They said some sections were wordy and could be more concise. Suggested bulletpoints.|
+| What questions came up? | Curious about the political commentary surrounding the issue.  | 
+| What new inspiration arose? | They asked about the quotes of women explaining why they are delaying pregnancy. | 
 
 |Question | Response | 
 | :--- | :---: |
