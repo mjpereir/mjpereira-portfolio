@@ -16,7 +16,7 @@ My target audience is Colombians, especially young adults, journalists, and poli
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? | Student A said they liked that the story has a twist and that the data will show a different side of the fertility rate discussion. Also liked that rurals areas are being highlighted.| 
+|What worked? | Student A said they liked that the story has a twist and that the data will show a different side of the fertility rate discussion. Also liked that rurals areas are being highlighted.| 
 |What didn't work? | Suggested to make the replacemet rate explicit in my first data visualization as they didn't grasp at first why the Colombia data was so alarming.|
 |What questions came up? | Suggested to compare the Colombian data with similar countries.| 
 |What new inspiration arose? | They wanted to see more information on what resources teens in Colombia have in terms of family planning. | 
@@ -25,19 +25,19 @@ My target audience is Colombians, especially young adults, journalists, and poli
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? | Student B liked that the narrative contradicts the media. They also liked the idea of using a map to visualize the rural and urban differences. | 
+|What worked? | Student B liked that the narrative contradicts the media. They also liked the idea of using a map to visualize the rural and urban differences. | 
 |What didn't work? | They said some sections were wordy and could be more concise. Suggested bulletpoints.|
-| What questions came up? | Curious about the political commentary surrounding the issue.  | 
-| What new inspiration arose? | They asked about the quotes of women explaining why they are delaying pregnancy. | 
+|What questions came up? | Curious about the political commentary surrounding the issue.  | 
+|What new inspiration arose? | They asked about the quotes of women explaining why they are delaying pregnancy. | 
 
 #### Student C
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? |Student C liked the title and the political controversy section.| 
+|What worked? |Student C liked the title and the political controversy section.| 
 |What didn't work? | Said that the policy recommendations should only focus on teen pregnancy which is the main topic of the story. Also mentioned I could hint/include the urban and rural divide earlier in the story.|
-| What questions came up? | Asked if there were any positive media voices. | 
-| What new inspiration arose? | They were surprised by the 10-14 pregnancy inclusion. | 
+|What questions came up? | Asked if there were any positive media voices. | 
+|What new inspiration arose? | They were surprised by the 10-14 pregnancy inclusion. | 
 
 These tables summarize the responses my three classmates gave me when I presented them with my sketch during Monday's in-class critique. 
 
