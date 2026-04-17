@@ -14,14 +14,14 @@ My target audience is Colombians, especially young adults, journalists, and poli
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? |PlaceholderJ| 
-|What didn't work? | Placeholder |
-| What questions came up? | Placeholder| 
-| What new inspiration arose? | Placeholder | 
+|What Worked? | Student A said they liked that the story has a twist and that the data will show a different side of the fertility rate discussion. Also liked that rurals areas are being highlighted.| 
+|What didn't work? | Suggested to make the replacemet rate explicit in my first data visualization as they didn't grasp at first why the Colombia data was so alarming.|
+|What questions came up? | Suggested to compare the Colombian data with similar countries.| 
+|What new inspiration arose? | They wanted to see more information on what resources teens in Colombia have in terms of family planning. | 
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? |Placeholder| 
+|What Worked? | Student B | 
 |What didn't work? | Placeholder|
 | What questions came up? | Placeholder| 
 | What new inspiration arose? | Placeholder | 
