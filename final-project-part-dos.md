@@ -28,15 +28,16 @@ My target audience is Colombians, especially young adults, journalists, and poli
 
 |Question | Response | 
 | :--- | :---: |
-|What Worked? |Placeholder| 
-|What didn't work? | Placeholder|
-| What questions came up? | Placeholder| 
-| What new inspiration arose? | Placeholder | 
+|What Worked? |Student C liked the title and the political controversy section.| 
+|What didn't work? | Said that the policy recommendations should only focus on teen pregnancy which is the main topic of the story. Also mentioned I could hint/include the urban and rural divide earlier in the story.|
+| What questions came up? | Asked if there were any positive media voices. | 
+| What new inspiration arose? | They were surprised by the 10-14 pregnancy inclusion. | 
 
 These tables summarize the responses my three classmates gave me when I presented them with my sketch during Monday's in-class critique. 
 
 ## Changes for Part III
 
+- For part III I will 
 
 
 ## AI Acknowledgments 
