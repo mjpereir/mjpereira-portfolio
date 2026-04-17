@@ -12,6 +12,8 @@ My target audience is Colombians, especially young adults, journalists, and poli
 
 ## User Feedback 
 
+#### Student A
+
 |Question | Response | 
 | :--- | :---: |
 |What Worked? | Student A said they liked that the story has a twist and that the data will show a different side of the fertility rate discussion. Also liked that rurals areas are being highlighted.| 
@@ -19,12 +21,16 @@ My target audience is Colombians, especially young adults, journalists, and poli
 |What questions came up? | Suggested to compare the Colombian data with similar countries.| 
 |What new inspiration arose? | They wanted to see more information on what resources teens in Colombia have in terms of family planning. | 
 
+#### Student B 
+
 |Question | Response | 
 | :--- | :---: |
 |What Worked? | Student B liked that the narrative contradicts the media. They also liked the idea of using a map to visualize the rural and urban differences. | 
 |What didn't work? | They said some sections were wordy and could be more concise. Suggested bulletpoints.|
 | What questions came up? | Curious about the political commentary surrounding the issue.  | 
 | What new inspiration arose? | They asked about the quotes of women explaining why they are delaying pregnancy. | 
+
+#### Student C
 
 |Question | Response | 
 | :--- | :---: |
