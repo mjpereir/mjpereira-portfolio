@@ -50,10 +50,11 @@ For my data, I will use the publicly available data from the DANE (Departamento 
 
 - National birth records from 1998 - 2007: https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/nacimientos-y-defunciones/estadisticas-vitales-nacimientos-y-defunciones-historicos
 - National birth records from 2008 - 2025: https://www.dane.gov.co/index.php/estadisticas-por-tema/salud/nacimientos-y-defunciones/nacimientos
+- Dataset so far: https://docs.google.com/spreadsheets/d/1l27lHlIbDnYt0VajWx34oriB7D6y0J02/edit?usp=sharing&ouid=115237136474607294050&rtpof=true&sd=true
 
 # The method and medium 
 
-For all my graphs, I will use either Tableau or Datawrapper. 
+For all my graphs, I will use either Tableau or Datawrapper. For the storytelling I will use Shorthand.
 
 # References 
 
