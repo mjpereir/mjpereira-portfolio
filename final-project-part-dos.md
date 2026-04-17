@@ -37,7 +37,12 @@ These tables summarize the responses my three classmates gave me when I presente
 
 ## Changes for Part III
 
-- For part III I will 
-
+- For Part III, I will keep the length of the text sections in mind to avoid it being too wordy.
+- Will add a mention of the urban/rural divide earlier in the narrative.
+- Will use callout boxes for key numbers to make it more visually appealing.
+- Will explore ways to make the presentation more interactive.
+- Will work on the design and color of the presentation. 
 
 ## AI Acknowledgments 
+
+For this part of the project I didn't use AI. 
