@@ -21,8 +21,6 @@ Hi! I am a first-year MSPPM-DC student at CMU with a background in Political Sci
 
 ## Final Project
 
-A high-level description of my final project will be added here. 
-
 * [Part I](final-project-part-uno)
 * [Part II](final-project-part-dos)
 * [Part III](final-project-part-tres).  
