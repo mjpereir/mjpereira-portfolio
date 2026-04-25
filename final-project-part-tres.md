@@ -2,7 +2,7 @@
 
 # Final Project: Part III
 
-[Published site](https://carnegiemellon.shorthandstories.com/10de2348-80e3-498e-ace6-c4cc22bdd6f1/index.html)
+[Published site]([https://carnegiemellon.shorthandstories.com/10de2348-](https://carnegiemellon.shorthandstories.com/10de2348-80e3-498e-ace6-c4cc22bdd6f1/index.html))
 
 ## Changes Made Since Part II
 
